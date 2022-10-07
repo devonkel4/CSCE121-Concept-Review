@@ -5,7 +5,7 @@ ____________________________________
 ## Getting Started
 ### VSCode
 _____
-1. Open VSCode with WSL, and click "Clone Git Repository" ![Step 1](/IGNORE_backend_files/vscode1.png)
+1. Open VSCode with WSL, and click "Clone Git Repository" <br /> ![Step 1](/IGNORE_backend_files/vscode1.png)
 2. Click clone from GitHub, and follow the steps that pop up in order to sign into GitHub.
 3. Copy the Git Clone URL from the GitHub repository ![Step 3](/IGNORE_backend_files/vscode2.png)
 4. Upon prompt for the Repository Name, paste the link into VSCode
